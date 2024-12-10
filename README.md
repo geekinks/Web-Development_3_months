@@ -12,11 +12,11 @@ Welcome to the **Web Development Crash Course**! This repository contains the sy
 ## Weekly Topics and Assignments
 
 ### Week 1: Introduction to Web Development
-1. **Lecture 1: Fundamentals of Web Development**
-   - How the web works
-   - Overview of HTML, CSS, and JavaScript
-   - Client-server architecture
-   - **Assignment:** Write a short paragraph explaining how a website is served from a server to a browser.
+1. - [ ] **Lecture 1: Fundamentals of Web Development**
+      - How the web works
+      - Overview of HTML, CSS, and JavaScript
+      - Client-server architecture
+      - **Assignment:** Write a short paragraph explaining how a website is served from a server to a browser.
 
 2. **Lecture 2: Setting Up the Development Environment**
    - Installing VS Code and extensions
