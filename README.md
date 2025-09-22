@@ -35,17 +35,16 @@ Welcome to the **Web Development Crash Course**! This repository contains the sy
 1. **Lecture 4: HTML Syntax and Structure**
    - Tags, attributes, and indentation
    - Headings, paragraphs, and lists
-   - **Assignment:** Create an HTML file with a simple webpage about yourself using headings, paragraphs, and lists.
 
 2. **Lecture 5: Links, Images, and Multimedia**
    - Adding hyperlinks
    - Embedding images and videos
-   - **Assignment:** Build a webpage with 3 internal links and an image gallery of 5 images.
 
 3. **Lecture 6: Forms and Input Elements**
    - Input types and attributes
    - Creating simple forms
-   - **Assignment:** Create a feedback form with fields for name, email, and comments.
+     
+   - [**Week 2 Assignment**](https://github.com/geekinks/html-first-landingpage-template) 
 
 ---
 
