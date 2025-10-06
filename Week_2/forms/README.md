@@ -37,3 +37,22 @@ Every form starts with the `<form>` element, which wraps all input fields.
 
   <input type="submit" value="Submit">
 </form>
+
+
+# 🧠 Assignments
+
+1.  Create a Simple Contact Form
+
+Name, Email, Subject, Message, and Submit button.
+
+2. Build a Registration Form
+
+Include text, email, password, radio, checkbox, and file upload fields.
+
+3. Create a Survey Form
+
+Use dropdowns, text areas, and sliders for user feedback.
+
+4. Experiment with Validation
+
+Add required fields, pattern matching, and number limit
