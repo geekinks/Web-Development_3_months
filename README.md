@@ -43,6 +43,7 @@ Welcome to the **Web Development Crash Course**! This repository contains the sy
 3. **Lecture 6: Forms and Input Elements**
    - Input types and attributes
    - Creating simple forms
+   - [Form Lession](./Week_2/forms/README.md)
      
    - [**Week 2 Assignment**](https://github.com/geekinks/html-first-landingpage-template) 
 
